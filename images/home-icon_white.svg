@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="20"
+   height="17.017448"
+   viewBox="0 0 20 17.017448"
+   sodipodi:docname="home-icon_white.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/kvint/studyscience/mount/images/home-icon_white.png"
+   inkscape:export-xdpi="299.84201"
+   inkscape:export-ydpi="299.84201">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     id="namedview4"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="6.9411765"
+     inkscape:cx="3.1284287"
+     inkscape:cy="10.894613"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4613"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="6.3142328,3.3728809"
+       orientation="1,0"
+       id="guide821"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.579064,1.4999996"
+       orientation="0,1"
+       id="guide823"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="33.579064,1.1398301"
+       orientation="1,0"
+       id="guide825"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="23.638386,-2.4978818"
+       orientation="1,0"
+       id="guide827"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.615081,-3.5423733"
+       orientation="1,0"
+       id="guide829"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="19.892623,21.669491"
+       orientation="1,0"
+       id="guide831"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="19.244318,14.754237"
+       orientation="0,1"
+       id="guide833"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.541439,17.173703"
+       orientation="0,1"
+       id="guide835"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid894"
+       originx="0.054777439"
+       originy="0.068364137" />
+  </sodipodi:namedview>
+  <g
+     id="g4613"
+     transform="translate(0.01126669,-17.041873)">
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path817"
+       d="M 0.45327835,25.478062 9.9285665,17.994578 19.527913,25.478062"
+       style="fill:none;stroke:#ffffff;stroke-width:1.4990232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path819"
+       d="m 3.1437922,33.30981 0.017998,-6.622803 6.7667775,-5.471011 6.8387643,5.471011 V 33.30981 H 11.80023 V 29.4945 H 8.2008802 l 0.071987,3.81531 z"
+       style="fill:none;stroke:#ffffff;stroke-width:1.4990232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <image
+     sodipodi:absref="/home/kvint/studyscience/mount/images/home-icon.png"
+     xlink:href="home-icon.png"
+     width="20"
+     height="17"
+     preserveAspectRatio="none"
+     id="image4608"
+     x="30.062115"
+     y="-5.15628" />
+</svg>
