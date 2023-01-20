@@ -1699,7 +1699,7 @@ figure {
   margin-left: 20px;
   margin-bottom: 30px; }
   .arrow-list li {
-    padding: 10px 0 10px 10px; }
+    padding: 3px 0 0px 0px; }
     .arrow-list li a {
       color: #8e9ca5;
       -webkit-transition: .3s ease;
