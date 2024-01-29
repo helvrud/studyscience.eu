@@ -1356,6 +1356,13 @@ form input[type="submit"], form button, form input[type="reset"] {
   font-weight: 300;
   margin-bottom: 30px; }
 
+
+.subsection-title {
+    font-size: 20px;
+    font-size: 1.5em;
+    font-weight: 200;
+    margin-bottom: 30px; }
+  
 .feature {
   margin-bottom: 30px;
   text-align: center;
